@@ -54,7 +54,7 @@ RegisterNumber: 212223110051
 
 ## STM 32 CUBE PROGRAM :
 ```
-include "main.h"
+#include "main.h"
 #include "stdbool.h"
 bool buttonstatus;
 void pushbutton();
@@ -142,7 +142,7 @@ void Error_Handler(void)
   }
 }
 
-#ifdef  USE_FULL_ASSERT
+
 void assert_failed(uint8_t *file, uint32_t line)
 {
   }
