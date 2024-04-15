@@ -48,9 +48,9 @@ The full form of an ARM is an advanced reduced instruction set computer (RISC) m
 
 13. check for execution of the output using run option 
 
-Developed by: SHIVRAJ R 
+Developed by: TH KARTHIK KRISHNA 
 
-RegisterNumber: 212223110051
+RegisterNumber: 212223240067
 
 ## STM 32 CUBE PROGRAM :
 ```
